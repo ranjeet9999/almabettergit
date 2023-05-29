@@ -1,0 +1,2 @@
+# almabettergit
+first git repository
